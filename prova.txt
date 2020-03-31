@@ -2,3 +2,4 @@ cane
 gatto
 topo
 cavallo
+mucca

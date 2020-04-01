@@ -3,3 +3,4 @@ gatto
 topo
 cavallo
 mucca
+istrice
